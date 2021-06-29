@@ -10,6 +10,7 @@ weather conditions, and much more.
 
 There is mainly javascript, HTML & basics of CSS used in this project. It includes some buttons 
 options that perform the task as mentioned.
+With the help of openweathermap API (link- https://openweathermap.org/), It fatches current weather related data and it includes Weather report on daily basis. Some more interesting features, like backend part so that user could create their own account and bookmarked cities of their choices and 5-Day forcasting weather, will be included further.
 
 * OpenWeatherMap API used in the project.
 
