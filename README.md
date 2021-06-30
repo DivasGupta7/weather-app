@@ -14,12 +14,29 @@ With the help of openweathermap API (link- https://openweathermap.org/), It fatc
 
 * OpenWeatherMap API used in the project.
 
+## Features
+
+* Get the weather condition of almost every location in the world.
+* Get to know weather_report on daily basis.
+
+## Upcoming Features
+
+* User can create their own account and bookmark cities of their choices.
+* 5-day forcasting weather will be introduced soon
+
+## Tech Stack used
+
+* HTML
+* CSS
+* JAVASCRIPT
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
-## Environment setup 
+## Environment setup for development
 
 
 ```bash 
