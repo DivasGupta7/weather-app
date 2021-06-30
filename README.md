@@ -1,4 +1,4 @@
-![](https://github.com/DivasGupta7/weather-app/blob/main/Readme.jpg)
+![](https://github.com/DivasGupta7/weather-app/blob/main/Readme.jpg=200x100)
 
 # Weather-app
 
