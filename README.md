@@ -1,3 +1,4 @@
+![](https://github.com/DivasGupta7/weather-app/blob/main/Readme.jpg)
 
 # Weather-app
 
