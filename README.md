@@ -37,7 +37,7 @@ With the help of openweathermap API (link- https://openweathermap.org/), It fatc
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
-## Environment setup for development
+## Environment setup for use & development
 
 
 ```bash 
